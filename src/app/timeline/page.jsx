@@ -19,8 +19,8 @@ export default function TimelinePage() {
       {/* Container changed to flex-col with gap-6 for vertical stacking */}
       <header className="flex flex-col items-start gap-6 mb-10">
         <div>
-          <h1 className="text-4xl font-black text-[#1C4D42] tracking-tighter uppercase">Timeline</h1>
-          <p className="text-slate-500 text-sm mt-1">Your latest interactions at a glance.</p>
+          <h1 className="text-4xl font-black text-[#145547] tracking-tighter uppercase">Timeline</h1>
+          <p className="text-slate-600 text-sm mt-1">Your latest interactions at a glance.</p>
         </div>
 
         {/* Filter now sits naturally below the text as per screenshot */}
@@ -39,7 +39,7 @@ export default function TimelinePage() {
           </select>
           {/* Custom Chevron Arrow for the dropdown */}
           <div className="absolute right-4 top-1/2 -translate-y-1/2 pointer-events-none">
-            <svg className="w-4 h-4 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <svg className="w-4 h-4 text-slate-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="Wait 19 9l-7 7-7-7" />
             </svg>
           </div>
