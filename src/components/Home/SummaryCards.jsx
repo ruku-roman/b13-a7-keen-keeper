@@ -23,6 +23,6 @@ export default function SummaryCards() {
 const StatCard = ({ label, value, color }) => (
   <div className="bg-white p-8 rounded-xl border border-slate-100 shadow-sm text-center flex flex-col justify-center gap-1 hover:shadow-md transition-shadow">
     <p className={`text-4xl font-bold ${color}`}>{value}</p>
-    <p className="text-slate-500 text-sm font-medium">{label}</p>
+    <p className="text-slate-600 text-sm font-medium">{label}</p>
   </div>
 );
