@@ -3,7 +3,7 @@ import { FaInstagramSquare,FaFacebook,FaTwitter   } from "react-icons/fa";
 import SocialButton from "../ui/SocialButton";
 
 const SOCIAL_LINKS = [
-  { id: 1, Icon: FaInstagramSquare, url: "#", className: `w-10 h-10 
+  { id: 1, Icon: FaInstagramSquare, url: "https://www.instagram.com/ruku.roman", className: `w-10 h-10 
     flex items-center justify-center 
     rounded-full 
     bg-white 
@@ -13,7 +13,7 @@ const SOCIAL_LINKS = [
     hover:text-white 
     transition-all duration-300 
     hover:scale-110`},
-  { id: 2, Icon: FaFacebook, url: "#", className:`w-10 h-10 
+  { id: 2, Icon: FaFacebook, url: "https://web.facebook.com/ruku.roman", className:`w-10 h-10 
     flex items-center justify-center 
     rounded-full 
     bg-white 
@@ -23,7 +23,7 @@ const SOCIAL_LINKS = [
     hover:text-white 
     transition-all duration-300 
     hover:scale-110` },
-  { id: 3, Icon: FaTwitter, url: "#", className:`w-10 h-10 
+  { id: 3, Icon: FaTwitter, url: "https://x.com/ruku_roman", className:`w-10 h-10 
     flex items-center justify-center 
     rounded-full 
     bg-white 
