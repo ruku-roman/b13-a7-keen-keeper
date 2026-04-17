@@ -28,7 +28,7 @@ A modern personal relationship management web app that helps you intentionally n
 
 ### 🚀 Quick Links
 
-[**🌐 Live Demo**](https://b13-a7-keen-keeper.vercel.app/) •
+[**🌐 Live Demo**](https://b13-a7-keen-keeper-two.vercel.app/) •
 [**📖 Documentation**](#-table-of-contents) •
 [**🐛 Report Bug**](https://github.com/ruku-roman/b13-a7-keen-keeper/issues) •
 [**✨ Request Feature**](https://github.com/ruku-roman/b13-a7-keen-keeper/discussions)
